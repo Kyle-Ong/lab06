@@ -2,5 +2,5 @@
 $host = "localhost";
 $user = "root";
 $pwd = "";
-$sql_db = "student_name";
+$sql_db = "student_db";
 ?>

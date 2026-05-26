@@ -9,7 +9,7 @@
 </head>
 <body>
     <?php
-    require_once "settigns.php";
+    require_once "settings.php";
     $conn = @mysqli_connect($host,$user,$pwd,$student_db);
     if($conn)
         {
